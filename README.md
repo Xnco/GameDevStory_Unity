@@ -1,2 +1,3 @@
-# GameDevStory_Unity
- 基于Unity开发的模拟游戏制作游戏
+# GameDevStory
+模拟开罗经典之作 《游戏开发物语》
+基于 Unity 2018.4 开发
